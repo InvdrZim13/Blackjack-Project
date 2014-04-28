@@ -1,9 +1,3 @@
-/*
-This is the solution to project 3, which is the creation of a blackjack program.
-Written by: Mohamed Romolino
-Date: 3/29/14
-*/
-
 #include <iostream>
 #include <Windows.h>
 #include <ctime>
@@ -433,6 +427,3 @@ void print_results(int totals[])
 		}
 	}
 }
-
-//"I have neither given or received unauthorized aid in completing this work, nor have I presented someone else's work as my own"
-//Mohamed Romolino
